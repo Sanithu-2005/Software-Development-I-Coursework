@@ -1,0 +1,308 @@
+Airport: Charles De Gaulle International
+Year: 2021
+Outcomes:
+  The total number of departure flights for the selected file recorded in the 12-hour period: 41
+  The total number of flights departing from Terminal 2: 7
+  The total number of departures of flights that are under 600 miles: 23
+  The total number of departure flights by Air France aircraft: 8
+  The total number of flights departing in temperatures below 15C: 4
+  The average number of British Airways departures per hour (rounded to two decimal places): 0.42
+  The percentage of total departures that are British Airways aircraft (rounded to two decimal places): 12.2
+  The percentage of Air France flights with a delayed departure (rounded to two decimal places): 25.0
+  The total number of hours of rain in the twelve hours (rain values are recorded once every hour):7
+  The full name of the least common destination (or names if more than one): Amsterdam Schiphol
+----------------------------------------
+Airport: Charles De Gaulle International
+Year: 2021
+Outcomes:
+  The total number of departure flights for the selected file recorded in the 12-hour period: 41
+  The total number of flights departing from Terminal 2: 7
+  The total number of departures of flights that are under 600 miles: 23
+  The total number of departure flights by Air France aircraft: 8
+  The total number of flights departing in temperatures below 15C: 4
+  The average number of British Airways departures per hour (rounded to two decimal places): 0.42
+  The percentage of total departures that are British Airways aircraft (rounded to two decimal places): 12.2
+  The percentage of Air France flights with a delayed departure (rounded to two decimal places): 25.0
+  The total number of hours of rain in the twelve hours (rain values are recorded once every hour):7
+  The full name of the least common destination (or names if more than one): Amsterdam Schiphol
+----------------------------------------
+Airport: Charles De Gaulle International
+Year: 2021
+Outcomes:
+  The total number of departure flights for the selected file recorded in the 12-hour period: 41
+  The total number of flights departing from Terminal 2: 7
+  The total number of departures of flights that are under 600 miles: 23
+  The total number of departure flights by Air France aircraft: 8
+  The total number of flights departing in temperatures below 15C: 4
+  The average number of British Airways departures per hour (rounded to two decimal places): 0.42
+  The percentage of total departures that are British Airways aircraft (rounded to two decimal places): 12.2
+  The percentage of Air France flights with a delayed departure (rounded to two decimal places): 25.0
+  The total number of hours of rain in the twelve hours (rain values are recorded once every hour):7
+  The full name of the least common destination (or names if more than one): Amsterdam Schiphol
+----------------------------------------
+Airport: Charles De Gaulle International
+Year: 2021
+Outcomes:
+  The total number of departure flights for the selected file recorded in the 12-hour period: 41
+  The total number of flights departing from Terminal 2: 7
+  The total number of departures of flights that are under 600 miles: 23
+  The total number of departure flights by Air France aircraft: 8
+  The total number of flights departing in temperatures below 15C: 4
+  The average number of British Airways departures per hour (rounded to two decimal places): 0.42
+  The percentage of total departures that are British Airways aircraft (rounded to two decimal places): 12.2
+  The percentage of Air France flights with a delayed departure (rounded to two decimal places): 25.0
+  The total number of hours of rain in the twelve hours (rain values are recorded once every hour):7
+  The full name of the least common destination (or names if more than one): Amsterdam Schiphol
+----------------------------------------
+Airport: Charles De Gaulle International
+Year: 2021
+Outcomes:
+  The total number of departure flights for the selected file recorded in the 12-hour period: 41
+  The total number of flights departing from Terminal 2: 7
+  The total number of departures of flights that are under 600 miles: 23
+  The total number of departure flights by Air France aircraft: 8
+  The total number of flights departing in temperatures below 15C: 4
+  The average number of British Airways departures per hour (rounded to two decimal places): 0.42
+  The percentage of total departures that are British Airways aircraft (rounded to two decimal places): 12.2
+  The percentage of Air France flights with a delayed departure (rounded to two decimal places): 25.0
+  The total number of hours of rain in the twelve hours (rain values are recorded once every hour):7
+  The full name of the least common destination (or names if more than one): Amsterdam Schiphol
+----------------------------------------
+Airport: Charles De Gaulle International
+Year: 2021
+Outcomes:
+  The total number of departure flights for the selected file recorded in the 12-hour period: 41
+  The total number of flights departing from Terminal 2: 7
+  The total number of departures of flights that are under 600 miles: 23
+  The total number of departure flights by Air France aircraft: 8
+  The total number of flights departing in temperatures below 15C: 4
+  The average number of British Airways departures per hour (rounded to two decimal places): 0.42
+  The percentage of total departures that are British Airways aircraft (rounded to two decimal places): 12.2
+  The percentage of Air France flights with a delayed departure (rounded to two decimal places): 25.0
+  The total number of hours of rain in the twelve hours (rain values are recorded once every hour):7
+  The full name of the least common destination (or names if more than one): Amsterdam Schiphol
+----------------------------------------
+Airport: Charles De Gaulle International
+Year: 2021
+Outcomes:
+  The total number of departure flights for the selected file recorded in the 12-hour period: 41
+  The total number of flights departing from Terminal 2: 7
+  The total number of departures of flights that are under 600 miles: 23
+  The total number of departure flights by Air France aircraft: 8
+  The total number of flights departing in temperatures below 15C: 4
+  The average number of British Airways departures per hour (rounded to two decimal places): 0.42
+  The percentage of total departures that are British Airways aircraft (rounded to two decimal places): 12.2
+  The percentage of Air France flights with a delayed departure (rounded to two decimal places): 25.0
+  The total number of hours of rain in the twelve hours (rain values are recorded once every hour):7
+  The full name of the least common destination (or names if more than one): Amsterdam Schiphol
+----------------------------------------
+Airport: Charles De Gaulle International
+Year: 2021
+Outcomes:
+  The total number of departure flights for the selected file recorded in the 12-hour period: 41
+  The total number of flights departing from Terminal 2: 7
+  The total number of departures of flights that are under 600 miles: 23
+  The total number of departure flights by Air France aircraft: 8
+  The total number of flights departing in temperatures below 15C: 4
+  The average number of British Airways departures per hour (rounded to two decimal places): 0.42
+  The percentage of total departures that are British Airways aircraft (rounded to two decimal places): 12.2
+  The percentage of Air France flights with a delayed departure (rounded to two decimal places): 25.0
+  The total number of hours of rain in the twelve hours (rain values are recorded once every hour):7
+  The full name of the least common destination (or names if more than one): Amsterdam Schiphol
+----------------------------------------
+Airport: Charles De Gaulle International
+Year: 2021
+Outcomes:
+  The total number of departure flights for the selected file recorded in the 12-hour period: 41
+  The total number of flights departing from Terminal 2: 7
+  The total number of departures of flights that are under 600 miles: 23
+  The total number of departure flights by Air France aircraft: 8
+  The total number of flights departing in temperatures below 15C: 4
+  The average number of British Airways departures per hour (rounded to two decimal places): 0.42
+  The percentage of total departures that are British Airways aircraft (rounded to two decimal places): 12.2
+  The percentage of Air France flights with a delayed departure (rounded to two decimal places): 25.0
+  The total number of hours of rain in the twelve hours (rain values are recorded once every hour):7
+  The full name of the least common destination (or names if more than one): Amsterdam Schiphol
+----------------------------------------
+Airport: Charles De Gaulle International
+Year: 2021
+Outcomes:
+  The total number of departure flights for the selected file recorded in the 12-hour period: 41
+  The total number of flights departing from Terminal 2: 7
+  The total number of departures of flights that are under 600 miles: 23
+  The total number of departure flights by Air France aircraft: 8
+  The total number of flights departing in temperatures below 15C: 4
+  The average number of British Airways departures per hour (rounded to two decimal places): 0.42
+  The percentage of total departures that are British Airways aircraft (rounded to two decimal places): 12.2
+  The percentage of Air France flights with a delayed departure (rounded to two decimal places): 25.0
+  The total number of hours of rain in the twelve hours (rain values are recorded once every hour):7
+  The full name of the least common destination (or names if more than one): Amsterdam Schiphol
+----------------------------------------
+Airport: London Heathrow
+Year: 2025
+Outcomes:
+  The total number of departure flights for the selected file recorded in the 12-hour period: 490
+  The total number of flights departing from Terminal 2: 106
+  The total number of departures of flights that are under 600 miles: 231
+  The total number of departure flights by Air France aircraft: 67
+  The total number of flights departing in temperatures below 15C: 156
+  The average number of British Airways departures per hour (rounded to two decimal places): 13.25
+  The percentage of total departures that are British Airways aircraft (rounded to two decimal places): 32.45
+  The percentage of Air France flights with a delayed departure (rounded to two decimal places): 31.34
+  The total number of hours of rain in the twelve hours (rain values are recorded once every hour):5
+  The full name of the least common destination (or names if more than one): Madrid Adolfo Suárez-Barajas
+----------------------------------------
+Airport: Charles De Gaulle International
+Year: 2021
+Outcomes:
+  The total number of departure flights for the selected file recorded in the 12-hour period: 41
+  The total number of flights departing from Terminal 2: 7
+  The total number of departures of flights that are under 600 miles: 23
+  The total number of departure flights by Air France aircraft: 8
+  The total number of flights departing in temperatures below 15C: 4
+  The average number of British Airways departures per hour (rounded to two decimal places): 0.42
+  The percentage of total departures that are British Airways aircraft (rounded to two decimal places): 12.2
+  The percentage of Air France flights with a delayed departure (rounded to two decimal places): 25.0
+  The total number of hours of rain in the twelve hours (rain values are recorded once every hour):7
+  The full name of the least common destination (or names if more than one): Amsterdam Schiphol
+----------------------------------------
+Airport: Charles De Gaulle International
+Year: 2021
+Outcomes:
+  The total number of departure flights for the selected file recorded in the 12-hour period: 41
+  The total number of flights departing from Terminal 2: 7
+  The total number of departures of flights that are under 600 miles: 23
+  The total number of departure flights by Air France aircraft: 8
+  The total number of flights departing in temperatures below 15C: 4
+  The average number of British Airways departures per hour (rounded to two decimal places): 0.42
+  The percentage of total departures that are British Airways aircraft (rounded to two decimal places): 12.2
+  The percentage of Air France flights with a delayed departure (rounded to two decimal places): 25.0
+  The total number of hours of rain in the twelve hours (rain values are recorded once every hour):7
+  The full name of the least common destination (or names if more than one): Amsterdam Schiphol
+----------------------------------------
+Airport: Charles De Gaulle International
+Year: 2021
+Outcomes:
+  The total number of departure flights for the selected file recorded in the 12-hour period: 41
+  The total number of flights departing from Terminal 2: 7
+  The total number of departures of flights that are under 600 miles: 23
+  The total number of departure flights by Air France aircraft: 8
+  The total number of flights departing in temperatures below 15C: 4
+  The average number of British Airways departures per hour (rounded to two decimal places): 0.42
+  The percentage of total departures that are British Airways aircraft (rounded to two decimal places): 12.2
+  The percentage of Air France flights with a delayed departure (rounded to two decimal places): 25.0
+  The total number of hours of rain in the twelve hours (rain values are recorded once every hour):7
+  The full name of the least common destination (or names if more than one): Amsterdam Schiphol
+----------------------------------------
+Airport: Charles De Gaulle International
+Year: 2021
+Outcomes:
+  The total number of departure flights for the selected file recorded in the 12-hour period: 41
+  The total number of flights departing from Terminal 2: 7
+  The total number of departures of flights that are under 600 miles: 23
+  The total number of departure flights by Air France aircraft: 8
+  The total number of flights departing in temperatures below 15C: 4
+  The average number of British Airways departures per hour (rounded to two decimal places): 0.42
+  The percentage of total departures that are British Airways aircraft (rounded to two decimal places): 12.2
+  The percentage of Air France flights with a delayed departure (rounded to two decimal places): 25.0
+  The total number of hours of rain in the twelve hours (rain values are recorded once every hour):7
+  The full name of the least common destination (or names if more than one): Amsterdam Schiphol
+----------------------------------------
+Airport: Charles De Gaulle International
+Year: 2021
+Outcomes:
+  The total number of departure flights for the selected file recorded in the 12-hour period: 41
+  The total number of flights departing from Terminal 2: 7
+  The total number of departures of flights that are under 600 miles: 23
+  The total number of departure flights by Air France aircraft: 8
+  The total number of flights departing in temperatures below 15C: 4
+  The average number of British Airways departures per hour (rounded to two decimal places): 0.42
+  The percentage of total departures that are British Airways aircraft (rounded to two decimal places): 12.2
+  The percentage of Air France flights with a delayed departure (rounded to two decimal places): 25.0
+  The total number of hours of rain in the twelve hours (rain values are recorded once every hour):7
+  The full name of the least common destination (or names if more than one): Amsterdam Schiphol
+----------------------------------------
+Airport: Charles De Gaulle International
+Year: 2021
+Outcomes:
+  The total number of departure flights for the selected file recorded in the 12-hour period: 41
+  The total number of flights departing from Terminal 2: 7
+  The total number of departures of flights that are under 600 miles: 23
+  The total number of departure flights by Air France aircraft: 8
+  The total number of flights departing in temperatures below 15C: 4
+  The average number of British Airways departures per hour (rounded to two decimal places): 0.42
+  The percentage of total departures that are British Airways aircraft (rounded to two decimal places): 12.2
+  The percentage of Air France flights with a delayed departure (rounded to two decimal places): 25.0
+  The total number of hours of rain in the twelve hours (rain values are recorded once every hour):7
+  The full name of the least common destination (or names if more than one): Amsterdam Schiphol
+----------------------------------------
+Airport: Charles De Gaulle International
+Year: 2021
+Outcomes:
+  The total number of departure flights for the selected file recorded in the 12-hour period: 41
+  The total number of flights departing from Terminal 2: 7
+  The total number of departures of flights that are under 600 miles: 23
+  The total number of departure flights by Air France aircraft: 8
+  The total number of flights departing in temperatures below 15C: 4
+  The average number of British Airways departures per hour (rounded to two decimal places): 0.42
+  The percentage of total departures that are British Airways aircraft (rounded to two decimal places): 12.2
+  The percentage of Air France flights with a delayed departure (rounded to two decimal places): 25.0
+  The total number of hours of rain in the twelve hours (rain values are recorded once every hour):7
+  The full name of the least common destination (or names if more than one): Amsterdam Schiphol
+----------------------------------------
+Airport: Charles De Gaulle International
+Year: 2021
+Outcomes:
+  The total number of departure flights for the selected file recorded in the 12-hour period: 41
+  The total number of flights departing from Terminal 2: 7
+  The total number of departures of flights that are under 600 miles: 23
+  The total number of departure flights by Air France aircraft: 8
+  The total number of flights departing in temperatures below 15C: 4
+  The average number of British Airways departures per hour (rounded to two decimal places): 0.42
+  The percentage of total departures that are British Airways aircraft (rounded to two decimal places): 12.2
+  The percentage of Air France flights with a delayed departure (rounded to two decimal places): 25.0
+  The total number of hours of rain in the twelve hours (rain values are recorded once every hour):7
+  The full name of the least common destination (or names if more than one): Amsterdam Schiphol
+----------------------------------------
+Airport: London Heathrow
+Year: 2025
+Outcomes:
+  The total number of departure flights for the selected file recorded in the 12-hour period: 490
+  The total number of flights departing from Terminal 2: 106
+  The total number of departures of flights that are under 600 miles: 231
+  The total number of departure flights by Air France aircraft: 67
+  The total number of flights departing in temperatures below 15C: 156
+  The average number of British Airways departures per hour (rounded to two decimal places): 13.25
+  The percentage of total departures that are British Airways aircraft (rounded to two decimal places): 32.45
+  The percentage of Air France flights with a delayed departure (rounded to two decimal places): 31.34
+  The total number of hours of rain in the twelve hours (rain values are recorded once every hour):5
+  The full name of the least common destination (or names if more than one): Madrid Adolfo Suárez-Barajas
+----------------------------------------
+Airport: London Heathrow
+Year: 2025
+Outcomes:
+  The total number of departure flights for the selected file recorded in the 12-hour period: 490
+  The total number of flights departing from Terminal 2: 106
+  The total number of departures of flights that are under 600 miles: 231
+  The total number of departure flights by Air France aircraft: 67
+  The total number of flights departing in temperatures below 15C: 156
+  The average number of British Airways departures per hour (rounded to two decimal places): 13.25
+  The percentage of total departures that are British Airways aircraft (rounded to two decimal places): 32.45
+  The percentage of Air France flights with a delayed departure (rounded to two decimal places): 31.34
+  The total number of hours of rain in the twelve hours (rain values are recorded once every hour):5
+  The full name of the least common destination (or names if more than one): Madrid Adolfo Suárez-Barajas
+----------------------------------------
+Airport: London Heathrow
+Year: 2025
+Outcomes:
+  The total number of departure flights for the selected file recorded in the 12-hour period: 490
+  The total number of flights departing from Terminal 2: 106
+  The total number of departures of flights that are under 600 miles: 231
+  The total number of departure flights by Air France aircraft: 67
+  The total number of flights departing in temperatures below 15C: 156
+  The average number of British Airways departures per hour (rounded to two decimal places): 13.25
+  The percentage of total departures that are British Airways aircraft (rounded to two decimal places): 32.45
+  The percentage of Air France flights with a delayed departure (rounded to two decimal places): 31.34
+  The total number of hours of rain in the twelve hours (rain values are recorded once every hour):5
+  The full name of the least common destination (or names if more than one): Madrid Adolfo Suárez-Barajas
+----------------------------------------
